@@ -1,7 +1,10 @@
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-
+/*html, body, #app {
+    height: 98%;
+    margin: 0;*/
+}
 h1:focus {
     outline: none;
 }
@@ -101,3 +104,7 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+/*.full-height {
+    height: 100%;
+}*/

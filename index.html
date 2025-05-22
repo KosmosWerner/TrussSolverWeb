@@ -4,17 +4,16 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TrussSolver.WebVersion</title>
-    <base href="/" />
+    <title>TrussSolver.Web</title>
+    <base href="TrussSolverWeb" />
     <link rel="stylesheet" href="css/app.css" />
-    <link rel="icon" type="image/png" href="favicon.png" />
-    <link href="TrussSolver.WebVersion.styles.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="icon.png" />
+    <link href="TrussSolver.Web.styles.css" rel="stylesheet" />
     <link href="manifest.webmanifest" rel="manifest" />
     <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
     <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
-
 </head>
 
 <body>
@@ -44,7 +43,7 @@
             const bytes = new Uint8Array(arrayBuffer);
 
             // Llamar al método C# pasando los bytes
-            DotNet.invokeMethodAsync('TrussSolver.WebVersion', 'ProcesarArchivo', Array.from(bytes));
+            DotNet.invokeMethodAsync('TrussSolver.Web', 'ProcesarArchivo', Array.from(bytes));
         }
 
         function abrirFileSelector() {

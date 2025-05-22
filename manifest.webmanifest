@@ -1,6 +1,6 @@
 {
-  "name": "TrussSolver.WebVersion",
-  "short_name": "TrussSolver.WebVersion",
+  "name": "TrussSolver.Web",
+  "short_name": "TrussSolver.Web",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
