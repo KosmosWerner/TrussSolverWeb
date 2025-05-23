@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TrussSolver.Web",
   "resources": {
-    "hash": "sha256-s7zF4faxytyS44lxJ5xxmsGkDVLnPJW3p9BoDf41Otw=",
+    "hash": "sha256-Uy/9OFx1nLgu65mySspaSh6/20qwHrIgifmGR4xwXnw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-bRciymgm6F/DFW+g/r9LMu2J9nWAwSp1DiC6uB9FUFc="
     },
@@ -69,8 +69,8 @@
       "System.Threading.Thread.wasm": "sha256-4b477ckI3brWzS6FV7658Vl59iOmtNtOKs1LsEsTL20=",
       "System.Threading.wasm": "sha256-/v9A27k7ZRBMUO/TfHXdS0rM+XqdOBFGBwMOIolX9sM=",
       "System.wasm": "sha256-/BvixaXVrW9Sj/UYjks/WVAoX9VAjD1hnSMZh0AEXRM=",
-      "TrussSolver.Core.wasm": "sha256-EnwdlvW3+WM4CcGxiP5QR2Rj2svny0IKXJyh5OP9vKA=",
-      "TrussSolver.Web.wasm": "sha256-mF2xoFefz39RZ2LXTbsiTb/HumvZGEWWZQTpPbjiF6w="
+      "TrussSolver.Core.wasm": "sha256-cqOM+igbIrIxA7RB/hp6tLCJmtBLDprYdJZgevDoYzw=",
+      "TrussSolver.Web.wasm": "sha256-uzXURJ31jndj+NSsgurwF6KRXp5+4PAcrXr2EyeFHCs="
     }
   },
   "cacheBootResources": true,

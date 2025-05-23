@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "o1SdquLn",
+  "version": "hdJkhRB3",
   "assets": [
     {
       "hash": "sha256-znJhiNrnvA6H6JDnCdszQ8+tJ7aEy8zlBneiPJABiIE=",
@@ -226,15 +226,15 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-EnwdlvW3+WM4CcGxiP5QR2Rj2svny0IKXJyh5OP9vKA=",
+      "hash": "sha256-cqOM+igbIrIxA7RB/hp6tLCJmtBLDprYdJZgevDoYzw=",
       "url": "_framework/TrussSolver.Core.wasm"
     },
     {
-      "hash": "sha256-mF2xoFefz39RZ2LXTbsiTb/HumvZGEWWZQTpPbjiF6w=",
+      "hash": "sha256-uzXURJ31jndj+NSsgurwF6KRXp5+4PAcrXr2EyeFHCs=",
       "url": "_framework/TrussSolver.Web.wasm"
     },
     {
-      "hash": "sha256-iqVVvsr40Od9elespV/s6r9aOj5aqfgU8j2/0W1RFU0=",
+      "hash": "sha256-pmQyuLdeunj5UhM1XStwoWZF86xe4wp5zRZIOkwziWQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
