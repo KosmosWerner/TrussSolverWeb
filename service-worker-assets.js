@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "t/af6zLM",
+  "version": "o1SdquLn",
   "assets": [
     {
       "hash": "sha256-znJhiNrnvA6H6JDnCdszQ8+tJ7aEy8zlBneiPJABiIE=",
@@ -146,7 +146,7 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.Expressions.wasm"
     },
     {
-      "hash": "sha256-knbrDPH2yXCD/62Wa9Z9AFj9U17Fk/zlGRw5obMazO0=",
+      "hash": "sha256-RGE2aBHF4cmx5Nk/XafEqcXQlBrpQQOmFVkcjj4vydQ=",
       "url": "_framework/System.Linq.wasm"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "_framework/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-fjjH36E+YKOWx89r3MfV6H74xw2+J6wpH5d2mCRL8Ew=",
+      "hash": "sha256-eo3QDOT+roUzHayNPHbakK4d9aM65vE407HKb6TIpwU=",
       "url": "_framework/System.Private.CoreLib.wasm"
     },
     {
@@ -226,15 +226,15 @@ self.assetsManifest = {
       "url": "_framework/System.wasm"
     },
     {
-      "hash": "sha256-x0++919szK2ZUUh1DOxMQQlVC2uGAnGb2bGvAUjzzFQ=",
+      "hash": "sha256-EnwdlvW3+WM4CcGxiP5QR2Rj2svny0IKXJyh5OP9vKA=",
       "url": "_framework/TrussSolver.Core.wasm"
     },
     {
-      "hash": "sha256-C9WuN03VtAsj8HhWPD/gKIGAbiecHbmq5rNedMfOoBk=",
+      "hash": "sha256-mF2xoFefz39RZ2LXTbsiTb/HumvZGEWWZQTpPbjiF6w=",
       "url": "_framework/TrussSolver.Web.wasm"
     },
     {
-      "hash": "sha256-TDrX6dGnwhSto9J0ygvnd5KsK5yK+q9VNMXZvozY99E=",
+      "hash": "sha256-iqVVvsr40Od9elespV/s6r9aOj5aqfgU8j2/0W1RFU0=",
       "url": "_framework/blazor.boot.json"
     },
     {

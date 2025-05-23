@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TrussSolver.Web",
   "resources": {
-    "hash": "sha256-dG8Zh7RGUxUSuOhvoBg4ZxmA1nbClUl2zlK24dgvu34=",
+    "hash": "sha256-s7zF4faxytyS44lxJ5xxmsGkDVLnPJW3p9BoDf41Otw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-bRciymgm6F/DFW+g/r9LMu2J9nWAwSp1DiC6uB9FUFc="
     },
@@ -49,13 +49,13 @@
       "System.Drawing.Primitives.wasm": "sha256-uUg9xGfzcmCHB0omfdojOFcZ5Y6OtEvM73h6n5X3n2Y=",
       "System.Drawing.wasm": "sha256-fhCVsdUexpzm43vQBxPHOOT7SIihtu8iWLLYK/zzNJA=",
       "System.Linq.Expressions.wasm": "sha256-I6NU3bdcFL858aLi5NcJMYbbEjikuUIwGc4xD0DqTnc=",
-      "System.Linq.wasm": "sha256-knbrDPH2yXCD/62Wa9Z9AFj9U17Fk/zlGRw5obMazO0=",
+      "System.Linq.wasm": "sha256-RGE2aBHF4cmx5Nk/XafEqcXQlBrpQQOmFVkcjj4vydQ=",
       "System.Memory.wasm": "sha256-MWAHg+YFxgBvZZyzqKGl4SjtgN2Rwy6LtleghJHqTr4=",
       "System.Net.Http.wasm": "sha256-ycR2wpBRxZ8012rnWnVSVsffu5kbA69QfENzSklrCck=",
       "System.Net.Primitives.wasm": "sha256-bGBc5CV6CYVgYNwCw+F/iD0y/Zf++hC5PUlTw0WigSw=",
       "System.Numerics.Vectors.wasm": "sha256-PdUl7N4o4lVbcZs60Wee3FKMN/bPtuPXHNMvmQlgJFw=",
       "System.ObjectModel.wasm": "sha256-2TL8wDtQaiR4Qp96MgmG1suyefG8kHvGEldF4HJe8ik=",
-      "System.Private.CoreLib.wasm": "sha256-fjjH36E+YKOWx89r3MfV6H74xw2+J6wpH5d2mCRL8Ew=",
+      "System.Private.CoreLib.wasm": "sha256-eo3QDOT+roUzHayNPHbakK4d9aM65vE407HKb6TIpwU=",
       "System.Private.Uri.wasm": "sha256-jeFRY4C+Pw2+ATv99gbLMkP73rNgXNru2k119Hg6jvQ=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-fzNCLEQ59XuvacFC4hl18+8Bt02H9wl2W9YGBIb3JF4=",
       "System.Runtime.InteropServices.wasm": "sha256-FXX8Z1a4qhSp/eVHdVfjqzjYkvs4GncupjuwYe/2leM=",
@@ -69,8 +69,8 @@
       "System.Threading.Thread.wasm": "sha256-4b477ckI3brWzS6FV7658Vl59iOmtNtOKs1LsEsTL20=",
       "System.Threading.wasm": "sha256-/v9A27k7ZRBMUO/TfHXdS0rM+XqdOBFGBwMOIolX9sM=",
       "System.wasm": "sha256-/BvixaXVrW9Sj/UYjks/WVAoX9VAjD1hnSMZh0AEXRM=",
-      "TrussSolver.Core.wasm": "sha256-x0++919szK2ZUUh1DOxMQQlVC2uGAnGb2bGvAUjzzFQ=",
-      "TrussSolver.Web.wasm": "sha256-C9WuN03VtAsj8HhWPD/gKIGAbiecHbmq5rNedMfOoBk="
+      "TrussSolver.Core.wasm": "sha256-EnwdlvW3+WM4CcGxiP5QR2Rj2svny0IKXJyh5OP9vKA=",
+      "TrussSolver.Web.wasm": "sha256-mF2xoFefz39RZ2LXTbsiTb/HumvZGEWWZQTpPbjiF6w="
     }
   },
   "cacheBootResources": true,
